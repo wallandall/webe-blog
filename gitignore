@@ -10,6 +10,15 @@ secrets.txt
 ./build/*
 .idea/*
 .idea
+# IDE - VSCode
+.vscode/*
 .vscode
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 env
 venv
+# System Files
+.DS_Store
+Thumbs.db
